@@ -20,4 +20,4 @@ async def fact(ctx):
    # Можем передавать файл как параметр!
     await ctx.send(file=picture)
 
-bot.run('MTEzNDE1MTc5Mjk4MTE5MjgzNQ.GW50Rt.kX8bUTc6Rg6XqqkYnc4tatDABRXoJAJR5l9nh0')
+bot.run('ТОКЕН')
